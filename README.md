@@ -21,7 +21,8 @@
 10. After running MVN commands, project will be initialized and build the executable JAR file to run.
 
 11. Run the below command to RUN the jar file.
-java -jar target/singtel-uploading-files-0.1.0.jar
+		
+		java -jar target/singtel-uploading-files-0.1.0.jar
 
 12. That runs the server-side piece that receives file uploads and should be up and running within a few seconds. Open a browser and visit http://localhost:8080/ to see the upload form and upload multiple files.
 

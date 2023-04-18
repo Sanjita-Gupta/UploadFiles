@@ -4,7 +4,7 @@
 
 2. cd DemoFileUpload
 
-3. git clone https://github.com/saura-bh/MultipleFilesUpload.git
+3. git clone
 
 4. All files will be cloned under directory /MultipleFilesUpload
 
